@@ -222,15 +222,18 @@ footer{
 }
 
 
-.ref{
+.ref {
     margin-top: 50px;
     text-align: center;
     margin-bottom: 50px;
+    padding: 0;
 }
 
 
 
-.ref li a{
+
+
+.ref ol li a{
     color: black;
     text-decoration: none;
     display: inline-block;
@@ -310,7 +313,10 @@ footer{
         display: none;
     }
 
-    
+    .ref ol{
+        margin-left: -55px;
+        
+    }
 
 
 }
