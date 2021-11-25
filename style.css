@@ -87,8 +87,16 @@ h3{
 .desc_foto img{
     position: inline-block;
     margin-top: 20px;
-    width: 90%;
+    width: 100%;
+    margin-left: 50px;
+}
+
+.desc_foto{
     
+    display: inline-block;
+    width: 30%;
+    
+   
 }
 
 .desc{
@@ -114,14 +122,7 @@ h3{
 
 
 
-.desc_foto{
-    
-    
-    display: inline-block;
-    width: 30%;
-    margin-left: 30px;
-   
-}
+
 
 .artigos{
     margin-top: 50px;
@@ -325,9 +326,9 @@ footer ul li{
     
 
     .desc_foto img{
-        width: 200px;
+        width: 300px;
         position: relative;
-        left: 10px;
+        left: -50px;
         
         
         
