@@ -308,7 +308,7 @@ footer{
         width: 300px;
         position: relative;
         left: -100px;
-        border: 5px solid black;
+        
     }
 
     #m1, #m2{
@@ -327,11 +327,7 @@ footer{
         
     }
 
-    body{
-        border: 1px solid black;
-        width: 100%;
-        
-    }
+    
 
 
 }
