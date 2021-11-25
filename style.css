@@ -326,8 +326,8 @@ footer ul li{
 
     .desc_foto img{
         width: 200px;
-        display: inline-block;
-        margin-left: -20px;
+        float: right;
+        
         
         
     }
